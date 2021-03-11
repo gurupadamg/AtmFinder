@@ -8,6 +8,7 @@ public class AtmFinderApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(AtmFinderApplication.class, args);
+
 	}
 
 }
